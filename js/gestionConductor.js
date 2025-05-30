@@ -3,6 +3,7 @@
 const conductores = [
   {
     orden: '1',
+    dni:'12345667',
     apellido: 'Pérez',
     nombre: 'Martin',
     registro: '00123456',
@@ -10,6 +11,7 @@ const conductores = [
   },
   {
     orden: '2',
+    dni:'12345667',
     apellido: 'Rodríguez',
     nombre: 'Laura',
     registro: '00123457',
@@ -17,6 +19,7 @@ const conductores = [
   },
   {
     orden: '3',
+    dni:'88445167',
     apellido: 'Fernández',
     nombre: 'Pablo',
     registro: '00123458',
@@ -34,8 +37,9 @@ function cargarTabla() {
     const fila = document.createElement('tr');
     fila.innerHTML = `
       <td>${c.orden}</td>
-      <td>${c.apellido}</td>
+      <td>${c.dni}</td>
       <td>${c.nombre}</td>
+      <td>${c.apellido}</td>
       <td>${c.registro}</td>
       <td>${c.fechaNacimiento}</td>
       <td>

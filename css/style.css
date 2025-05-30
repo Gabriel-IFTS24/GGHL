@@ -1,6 +1,6 @@
 :root {
     /* Paleta de colores */
-    --varcolor1: lightskyblue;
+    --varcolor1: rgb(20, 113, 170);
 }
 
 /* General */
@@ -19,6 +19,7 @@
 /* *** Navbar *** */
 nav{
     background-color: var(--varcolor1);
+    color: #f6f7f8;
 }
 
 
@@ -35,7 +36,14 @@ form{
 form input[type="date"] {
     max-width: 300px;
   }
- #logo {
+#logo {
         display: grid;
         place-items: center; /* Centra tanto horizontal como verticalmente */
+}
+
+h3, h4 {
+    color: #007bff;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+    margin-top: 20px;
 }
