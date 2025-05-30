@@ -18,9 +18,9 @@ function header() {
               Conductores
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="conductoresAlta.html">Alta de Conductores</a></li>
-              <li><a class="dropdown-item" href="conductoresGestion.html">Gestión de Conductores</a></li>
-              <li><a class="dropdown-item" href="conductoresReporte.html">Reporte de Conductores</a></li>
+              <li><a class="dropdown-item" href="conductoresAlta.html">Alta</a></li>
+              <li><a class="dropdown-item" href="conductoresGestion.html">Gestión</a></li>
+              <li><a class="dropdown-item" href="conductoresReporte.html">Reporte</a></li>
             </ul>
           </li>
 
@@ -29,9 +29,9 @@ function header() {
               Autobuses
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Alta de Autobuses</a></li>
-              <li><a class="dropdown-item" href="#">Gestión de Autobuses</a></li>
-              <li><a class="dropdown-item" href="#">Reporte de Autobuses</a></li>
+              <li><a class="dropdown-item" href="#">Alta</a></li>
+              <li><a class="dropdown-item" href="#">Gestión</a></li>
+              <li><a class="dropdown-item" href="#">Reporte</a></li>
             </ul>
           </li>
 
@@ -40,9 +40,9 @@ function header() {
               Rutas
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Alta de Rutas</a></li>
-              <li><a class="dropdown-item" href="#">Gestión de Rutas</a></li>
-              <li><a class="dropdown-item" href="#">Reporte de Rutas</a></li>
+              <li><a class="dropdown-item" href="#">Alta</a></li>
+              <li><a class="dropdown-item" href="#">Gestión</a></li>
+              <li><a class="dropdown-item" href="#">Reporte</a></li>
             </ul>
           </li>
 
@@ -51,9 +51,9 @@ function header() {
               Paradas
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Alta de Paradas</a></li>
-              <li><a class="dropdown-item" href="#">Gestión de Paradas</a></li>
-              <li><a class="dropdown-item" href="#">Reporte de Paradas</a></li>
+              <li><a class="dropdown-item" href="#">Alta</a></li>
+              <li><a class="dropdown-item" href="#">Gestión</a></li>
+              <li><a class="dropdown-item" href="#">Reporte</a></li>
             </ul>
           </li>
 
