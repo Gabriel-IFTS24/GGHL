@@ -10,7 +10,7 @@ function header() {
       <div class="collapse navbar-collapse" id="navbarContent">
         <ul class="navbar-nav me-auto">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Inicio</a>
+            <a class="nav-link active" href="index.html">Inicio</a>
           </li>
 
           <li class="nav-item dropdown">

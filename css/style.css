@@ -20,6 +20,16 @@ nav{
     background-color: var(--varcolor1);
 }
 
+#divLogoIndex{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#logoIndex{
+    width: 400px;
+
+}
 
 /* *** Gestion *** */
 thead{
