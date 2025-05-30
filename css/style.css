@@ -11,6 +11,7 @@
     box-sizing: border-box;
 }
 
+
 .Content{
     margin: 20px;
 }
@@ -34,3 +35,7 @@ form{
 form input[type="date"] {
     max-width: 300px;
   }
+ #logo {
+        display: grid;
+        place-items: center; /* Centra tanto horizontal como verticalmente */
+}
